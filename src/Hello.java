@@ -8,5 +8,7 @@ public class Hello {
 
         System.out.println("Özcan");
 
+        System.out.println("Cydeo");
+
     }
 }
