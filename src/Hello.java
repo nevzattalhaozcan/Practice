@@ -10,5 +10,7 @@ public class Hello {
 
         System.out.println("Cydeo");
 
+        System.out.println("Practice");
+
     }
 }
