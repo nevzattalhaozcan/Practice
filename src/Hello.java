@@ -4,5 +4,9 @@ public class Hello {
 
         System.out.println("Hello World");
 
+        System.out.println("Nevzat Talha");
+
+        System.out.println("Özcan");
+
     }
 }
